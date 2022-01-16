@@ -16,7 +16,7 @@ module "sandbox" {
 
   change_management_parameters = {
     change_requested_by = "Jonas"
-    change_reason       = "AFT initial deployment-rerun"
+    change_reason       = "AFT initial deployment-rerun2"
   }
 
   custom_fields = {
